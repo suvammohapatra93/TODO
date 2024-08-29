@@ -30,3 +30,11 @@ Before running the project, make sure you have the following installed:
 
 Node.js: JavaScript runtime
 npm or yarn: Package manager
+
+### Follow:-
+npm create vite@latest
+cd "name of app"
+npm i
+tailwind install
+Make changes in Index.css ....
+npm run dev
